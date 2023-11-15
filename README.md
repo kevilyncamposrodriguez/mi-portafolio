@@ -8,7 +8,7 @@ Mi portafolio creado con HTML5, CSS, JS y php metodologia BEM y una arquitectura
 * [Portafolio Web](https://kevilyncamposrodriguez.com/)
 
 ## Ejemplo 
--[ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
+-[https://kevilyncamposrodriguez.github.io/mi-portafolio/](https://kevilyncamposrodriguez.github.io/mi-portafolio/)
 
 ## Instalación
 Este proyecto no requiere instalación.
